@@ -13,10 +13,10 @@ Opendoor Labs Inc. was founded December 30th, 2013. ***2***
 ### **<p>Who are the founders of the company?</p>**  
 
 Opendoor Labs Inc. founders are as follows:  
-#### **Eric Wu - CEO & Co-Founder** <br>  ![Eric Wu - CEO & Co-Founder](Images/Eric-Wu_Opendoor.png)
-Ian Wong,CTO & Co-Founder,   
-JD Ross, Entrepreneur  
-Keith Rabois, Entrepreneur & Investor  
+#### **Eric Wu - CEO** <br> <img src="Images/Eric_Wu_Opendoor.png" width="200" height="200">
+#### **Ian Wong - CTO**  <br> <img src="Images/Ian_Wong_Opendoor.jpg" width="200" height="200">
+#### **JD Ross**  <br>  <img src="Images/JD_Ross_Opendoor.png" width="200" height="200">
+#### **Keith Rabois**  <br>  ![Keith Rabois - Entrepreneur & Investor](Images/Keith_Rabois_Opendoor.png)   
 
 <br>
 <br>
