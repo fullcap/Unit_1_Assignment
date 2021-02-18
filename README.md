@@ -153,5 +153,5 @@ It broadens the base and diversifies their revenue streams
 ***9.*** https://stackshare.io/opendoor/the-stack-that-helped-opendoor-buy-and-sell-over-$1b-in-homes  
 ***10.*** https://www.daveramsey.com/blog/real-estate-trends  
 ***11*** https://offerkey.com/  
-***12*** https://ibuyer.com/top-ibuyers.html
+***12*** https://ibuyer.com/top-ibuyers.html  
 ***13*** https://builtin.com/consumer-tech/real-estate-technology
