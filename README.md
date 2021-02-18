@@ -16,7 +16,7 @@ Opendoor Labs Inc. founders are as follows:
 #### **Eric Wu - CEO** <br> <img src="Images/Eric_Wu_Opendoor.png" width="200" height="200">
 #### **Ian Wong - CTO**  <br> <img src="Images/Ian_Wong_Opendoor.jpg" width="200" height="200">
 #### **JD Ross**  <br>  <img src="Images/JD_Ross_Opendoor.png" width="200" height="200">
-#### **Keith Rabois**  <br>  ![Keith Rabois - Entrepreneur & Investor](Images/Keith_Rabois_Opendoor.png)   
+#### **Keith Rabois**  <br> <img src="Images/Keith_Rabois_Opendoor.png" width="200" height="200">
 
 <br>
 <br>
