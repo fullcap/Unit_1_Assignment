@@ -4,15 +4,15 @@
 
 ### **<p>Name of company</p>**  
 
-Opendoor Labs Inc.  ***1***  
+"Opendoor Labs Inc."  <sup>***1***</sup>  
 
 ### **<p>When was the company incorporated?</p>**  
 
-Opendoor Labs Inc. was founded December 30th, 2013. ***2***  
+Opendoor Labs Inc. was founded "December 30th, 2013." <sup>***2***</sup>  
 
 ### **<p>Who are the founders of the company?</p>**  
 
-Opendoor Labs Inc. founders are as follows: ***3***  
+Opendoor Labs Inc. founders are as follows: <sup>***3***</sup>  
 
 #### **Eric Wu - CEO** <br> <img src="Images/Eric_Wu_Opendoor.png" width="200" height="200">  
 
@@ -24,47 +24,40 @@ Opendoor Labs Inc. founders are as follows: ***3***
 
 ### **<p>How did the idea for the company (or project) come about?</p>**  
 
-In 2014, the four founders set out to reinvent life’s most important transaction with a new, radically simple way to buy and sell your home. They have rebuilt the entire consumer real estate experience and have made buying and selling possible on a mobile device. ***4***  
+As stated on their company's website, "In 2014, we set out to reinvent life’s most important transaction with a new, radically simple way to buy and sell your home. We have rebuilt the entire consumer real estate experience and have made buying and selling possible on a mobile device." <sup>***4***</sup>  
 
 ### **<p>How is the company funded? How much funding have they received?</p>**  
 
-Opendoor Labs Inc. has been funded by 64 investors and has raised a total of $1.5B in funding over 8 rounds. Their latest funding was raised on Mar 20, 2019 from a Series E round. ***5***  
+Crunchbase says, "Opendoor Labs Inc. has been funded by 64 investors" and "has raised a total of $1.5B in funding over 8 rounds. Their latest funding was raised on Mar 20, 2019 from a Series E round." <sup>***5***</sup>  
 
 ## **<p>Business Activities:</p>**  
 
 ### **<p>What specific financial problem is the company or project trying to solve?</p>**  
 
-Opendoor Labs Inc. is a Real Estate Technology Company that has Pioneered A New Home-Buying Model, by streamlining the purchasing and selling process for residential properties in America.  
+CB Insights reports, "Opendoor Labs Inc. is a Real Estate Technology Company that has Pioneered A New Home-Buying Model, by streamlining the purchasing and selling process for residential properties in America.  
 
-Customers interested in selling their home can go to Opendoor, and if their home meets Opendoor’s criteria, Opendoor will provide an offer price sight unseen after gathering information about the home from the customer. Against the offer price, the company will charge home sellers a risk fee to hedge against any potential depreciation in home price.  
+Customers interested in selling their home can go to Opendoor & Opendoor will provide an offer price. The company will charge home sellers a risk fee to hedge against any potential depreciation in home price."
 
-This buying model is attractive to sellers because it allows them to sell their homes immediately. They purchase a home directly from a homeowner, improve it, and list it on the market as fast as possible.  
+The buying model is referred to as iBuying. The report further states,  "[it's] attractive to sellers because it allows them to sell their homes immediately. They purchase a home directly from a homeowner, improve it, and list it on the market as fast as possible." 
+  
 
-Opendoor Labs Inc. also streamlines the home buying process.  
+In addition to modernizing the home sales experience, they've also revolutionized the home purchasing experience. As it says, "Home buyers interested in properties available via OpenDoor can access and view properties at their convenience with key codes and without agents." They even offer a home trade-in program. <sup>***6***</sup>  
 
-Home buyers interested in properties available via OpenDoor can access and view properties at their convenience with key codes and without agents. What’s more, home buyers are provided a 30-day guarantee on their purchase, which stipulates that Opendoor will buy back the home.  
+### **<p>Who is the company's intended customer?  </p>**  
 
-Existing and new customers can take advantage of home trade-ins as well, purchasing a home directly from interested home buyers and avoiding the cost of carrying two mortgages at once or making offers contingent on selling a home. ***6***  
+Opendoor's intended customers are residential home buyers and sellers. They help sellers and buyers meet at their digital marketplace, while streamlining the process from start to finish. <sup>***3***</sup>  
 
-### **<p>Who is the company's intended customer?  Is there any information about the market size of this set of customers?</p>**  
-
-Opendoor is an operator of an online real estate marketplace used to streamline the sales process of home buying and selling.  
-
-It helps sellers to receive an offer without listing or showing their home and buyers to browse for homes on sale and instantly unlock them using the company's application that enables customers to buy and sell properties in a hassle-free way. ***3***  
-
-For the seller the benefit is a faster, simpler home sale, and potentially lower real estate transaction costs. For the buyers interested in properties available, via OpenDoor, can access and view properties at their convenience with key codes and without agents. ***6***  
+> "For the seller the benefit is a faster, simpler home sale, and potentially lower real estate transaction costs. For the buyers interested in properties available, via OpenDoor, can access and view properties at their convenience with key codes and without agents." CB Insights reports. <sup>***6***</sup>  
 
 ### **<p>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</p>**  
 
-First to market advantage  
-
-OpenDoor's recent competitors include Zillow Instant Offers, Redfin Now, Amne, ZHome, Knock, OfferPad, and Faira. ***7***  
+Opendoor has first-to-market-advantage. However, recently there has been competitors include Zillow Instant Offers, Redfin Now, Amne, ZHome, Knock, OfferPad, and Faira. <sup>***7***</sup>  
 
 ### **<p>Which technologies are they currently using, and how are they implementing them?</p>**  
 
-Ruby on Rails, Angular, Bootstrap, Puma, Postgres, PostGIS, Sidekiq, Redis, Elasticsearch, Webpack, Imgix, React, Elixir, Guardian, Python, SqlAlchemy, scikit-learn, Pandas, Flask, Docker, Kubernetes, Dask, BigQuery, Twilio, React Native, Blockscore, GitHub, Heroku, CircleCI, Slack, Help Scout, Dyn, Talkdesk, HelloSign, New Relic, Papertrail, Sentry, Mixpanel, Amplitude, Heap, and Looker. ***9***  
+As per Stackshare their current technology stack consist of, "Ruby on Rails, Angular, Bootstrap, Puma, Postgres, PostGIS, Sidekiq, Redis, Elasticsearch, Webpack, Imgix, React, Elixir, Guardian, Python, SqlAlchemy, scikit-learn, Pandas, Flask, Docker, Kubernetes, Dask, BigQuery, Twilio, React Native, Blockscore, GitHub, Heroku, CircleCI, Slack, Help Scout, Dyn, Talkdesk, HelloSign, New Relic, Papertrail, Sentry, Mixpanel, Amplitude, Heap, and Looker." <sup>***9***</sup>  
 
-The company gains from whatever appreciation might occur, and protects itself from downside (depreciation in the home price) by taking a fee from the homeowner tied to its own estimate of the home and market risk. ***6***  
+CB Insights reports, "The company gains from whatever appreciation might occur, and protects itself from downside (depreciation in the home price) by taking a fee from the homeowner tied to its own estimate of the home and market risk." <sup>***6***</sup>  
 
 ## **<p>Landscape:</p>**  
 
@@ -72,18 +65,16 @@ The company gains from whatever appreciation might occur, and protects itself fr
 
 ### **<p>What have been the major trends and innovations of this domain over the last 5-10 years?</p>**  
 
-Slim Pickings for Home Buyers, Home Prices Are Still Rising, Mortgage Interest Rates Are Still Super Low, Online Real Estate Services Are Growing, Risky Buying Options Are More Accessible. ***10***  
-> Don't forget to update  
+Recent trends in the real estate technology domain have been the fall in supply, the increase in demand, Low mortgage rates,and technology adoption. <sup>***10***</sup>  
 
 ### **<p>What are the other major companies in this domain?</p>**  
 
-Other ibuyers - Knock, offerpad, Zillow Offers, RedfinNow, Orchard, Offer Key, ***11,12,13***  
-> Don't forget to update  
+The other iBuyers such as Knock, offerpad, Zillow Offers, RedfinNow, Orchard, and Offer Key, <sup>***10,11,12***</sup>  
 
 ## **<p>Results</p>**  
 
 ### **<p>What has been the business impact of this company so far?</p>**  
-The company has raised $320M in just 3 years. ***6***  
+The company has raised $320M in just 3 years. <sup>***6***</sup>    
 > Don't forget to update  
 
 ### **<p>What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?</p>**  
@@ -142,16 +133,39 @@ It broadens the base and diversifies their revenue streams
 
 ## <p>Works Cited</p>
 
-***1.*** https://www.businesswire.com/news/home/20201218005528/en/Opendoor-a-Leading-Digital-Platform-for-Residential-Real-Estate-to-Become-Publicly-traded-following-Completed-Transaction-with-Social-Capital-Hedosophia-II  
-***2.*** https://www.bloomberg.com/profile/company/1239779D:US  
-***3.*** https://www.crunchbase.com/organization/opendoor-2  
-***4.*** https://www.opendoor.com/w/about  
-***5.*** https://www.crunchbase.com/organization/opendoor-2/company_financials  
-***6.*** https://www.cbinsights.com/research/report/opendoor-real-estate-teardown-expert-intelligence/  
-***7.*** https://askwonder.com/research/opendoor-competitors-and-customers-gkxdikvgk#:~:text=OpenDoor's%20recent%20competitors%20include%20Zillow,Knock%2C%20OfferPad%2C%20and%20Faira.  
-***8.*** https://www.businesswire.com/news/home/20201218005528/en/Opendoor-a-Leading-Digital-Platform-for-Residential-Real-Estate-to-Become-Publicly-traded-following-Completed-Transaction-with-Social-Capital-Hedosophia-II  
-***9.*** https://stackshare.io/opendoor/the-stack-that-helped-opendoor-buy-and-sell-over-$1b-in-homes  
-***10.*** https://www.daveramsey.com/blog/real-estate-trends  
-***11*** https://offerkey.com/  
-***12*** https://ibuyer.com/top-ibuyers.html  
-***13*** https://builtin.com/consumer-tech/real-estate-technology
+<sup>***1.***</sup> Businesswire. (2020). "Opendoor, a Leading Digital Platform for Residential Real Estate, to Become Publicly-traded following Completed Transaction with Social Capital Hedosophia II".
+<br> https://www.businesswire.com/news/home/20201218005528/en/Opendoor-a-Leading-Digital-Platform-for-Residential-Real-Estate-to-Become-Publicly-traded-following-Completed-Transaction-with-Social-Capital-Hedosophia-II
+
+<sup>***2.***</sup> Bloomberg. (2020). "Opendoor Labs Inc".
+<br> https://www.bloomberg.com/profile/company/1239779D:US
+
+<sup>***3.***</sup> Crunchbase. (2021). "Opendoor".
+<br> https://www.crunchbase.com/organization/opendoor-2
+
+<sup>***4.***</sup> Opendoor. (2021). "About".
+<br> https://www.opendoor.com/w/about
+
+<sup>***5.***</sup> Crunchbase. (2021). "Opendoor: Company Finanials"
+<br>  https://www.crunchbase.com/organization/opendoor-2/company_financials
+
+<sup>***6.***</sup> CB Insights. (2020). "How This Real Estate Tech Company Pioneered A New Home-Buying Model And Became A Unicorn in 3 Years".
+<br> https://www.cbinsights.com/research/report/opendoor-real-estate-teardown-expert-intelligence/
+
+<sup>***7.***</sup> Amy R., Sherria C., Nicola H., Alexis Z., Sarah D., Ask Wonder. (2018). "OpenDoor Competitors".
+<br> https://askwonder.com/research/opendoor-competitors-and-customers-gkxdikvgk#:~:text=OpenDoor's%20recent%20competitors%20include%20Zillow,Knock%2C%20OfferPad%2C%20and%20Faira.
+
+
+<sup>***8.***</sup> Zirbel, Alex., Stackshare. (2021). "The Stack That Helped Opendoor Buy and Sell Over $1B in Homes".
+<br> https://stackshare.io/opendoor/the-stack-that-helped-opendoor-buy-and-sell-over-$1b-in-homes
+
+<sup>***9.***</sup> Ramsey Solutions. (2021). "Real Estate Trends 2021: What You Need to Know".
+<br> https://www.daveramsey.com/blog/real-estate-trends
+
+<sup>***10.***</sup> Offer Key. (2021). "SELL YOUR HOME TODAY".
+<br> https://offerkey.com/
+
+<sup>***11.***</sup> iBuyer. (2021). "Top iBuyer Companies".
+<br> https://ibuyer.com/top-ibuyers.html
+
+<sup>***12.***</sup> Rice, Mae.(2020). "REAL ESTATE TECHNOLOGY: TRENDS & OVERVIEW".
+<br> https://builtin.com/consumer-tech/real-estate-technology
