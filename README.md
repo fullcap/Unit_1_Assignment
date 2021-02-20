@@ -30,24 +30,24 @@ As stated on their company's website, "In 2014, we set out to reinvent life’s 
 
 Crunchbase says, "Opendoor Labs Inc. has been funded by 64 investors" and "has raised a total of $1.5B in funding over 8 rounds. Their latest funding was raised on Mar 20, 2019 from a Series E round." <sup>***5***</sup>  
 
+At the time, this truly revolutionary business concept had not yet been discovered or implemented and allowed Opendoor to gain a large market share and experience rapid growth.
+
 ## **<p>Business Activities:</p>**  
 
 ### **<p>What specific financial problem is the company or project trying to solve?</p>**  
 
 CB Insights reports, "Opendoor Labs Inc. is a Real Estate Technology Company that has Pioneered A New Home-Buying Model, by streamlining the purchasing and selling process for residential properties in America.  
 
-Customers interested in selling their home can go to Opendoor & Opendoor will provide an offer price. The company will charge home sellers a risk fee to hedge against any potential depreciation in home price."
+Customers interested in selling their home can go to Opendoor & Opendoor will provide an offer price. The company will charge home sellers a risk fee to hedge against any potential depreciation in home price." <sup>***6***</sup> 
 
-The buying model is referred to as iBuying. The report further states,  "[it's] attractive to sellers because it allows them to sell their homes immediately. They purchase a home directly from a homeowner, improve it, and list it on the market as fast as possible." 
+The buying model is referred to as iBuying. The report further states,  "[it's] attractive to sellers because it allows them to sell their homes immediately. They purchase a home directly from a homeowner, improve it, and list it on the market as fast as possible." <sup>***6***</sup> 
   
 
 In addition to modernizing the home sales experience, they've also revolutionized the home purchasing experience. As it says, "Home buyers interested in properties available via OpenDoor can access and view properties at their convenience with key codes and without agents." They even offer a home trade-in program. <sup>***6***</sup>  
 
 ### **<p>Who is the company's intended customer?  </p>**  
 
-Opendoor's intended customers are residential home buyers and sellers. They help sellers and buyers meet at their digital marketplace, while streamlining the process from start to finish. <sup>***3***</sup>  
-
-> "For the seller the benefit is a faster, simpler home sale, and potentially lower real estate transaction costs. For the buyers interested in properties available, via OpenDoor, can access and view properties at their convenience with key codes and without agents." CB Insights reports. <sup>***6***</sup>  
+Opendoor's intended customers are residential home buyers and sellers. They help sellers and buyers via their digital marketplace by streamlining the home purchase or sales process from start to finish. <sup>***3***</sup>  
 
 ### **<p>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</p>**  
 
@@ -63,7 +63,7 @@ CB Insights reports, "The company gains from whatever appreciation might occur, 
 
 ### **<p>What domain of the financial industry is the company in?</p>**  
 
-Opendoor's business conducts business within the Real Estate Technology domain. 
+Opendoor conducts business within the Real Estate Technology domain. They've pioneered a rapidly growing segment known as iBuying.
 
 ### **<p>What have been the major trends and innovations of this domain over the last 5-10 years?</p>**  
 
@@ -80,11 +80,11 @@ The company has raised $1.5B since inception, became a top-level technology comp
 
 ### **<p>How is your company performing relative to competitors in the same domain?</p>**  
 
-Using google trends to gage relevancy and internet traffic in the market shows Opendoor leads significantly compared to several of  their direct competitors. <sup>***13***</sup> 
+Using google trends to gage relevancy and internet traffic shows Opendoor leads significantly compared to several of  their direct competitors. <sup>***13***</sup> 
 ## **<p>Recommendations</p>**  
 
 ### **<p>If you were to advise the company, what products or services would you suggest they offer?</p>** 
-My recommendation would include offering credit improvement services to unqualified buyers, Furniture affiliate partnerships, housing insurance, collateralization using blockchain technology, and homeowner partnership programs similar to AirBNB.
+My recommendation would include offering credit improvement services to unqualified buyers, Furniture affiliate partnerships, housing insurance options, asset collateralization using blockchain technology, and homeowner partnership programs similar to AirBNB.
 
 ### **<p>Why do you think that offering this product or service would benefit the company?</p>**  
 
