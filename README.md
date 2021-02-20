@@ -51,11 +51,11 @@ Opendoor's intended customers are residential home buyers and sellers. They help
 
 ### **<p>What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)</p>**  
 
-Opendoor has first-to-market-advantage. However, recently there has been competitors include Zillow Instant Offers, Redfin Now, Amne, ZHome, Knock, OfferPad, and Faira. <sup>***7***</sup>  
+Opendoor has first-to-market-advantage. However, recently new competitors have risen which includes Zillow Instant Offers, Redfin Now, Amne, ZHome, Knock, OfferPad, and Faira. <sup>***7***</sup>  
 
 ### **<p>Which technologies are they currently using, and how are they implementing them?</p>**  
 
-As per Stackshare their current technology stack consist of, "Ruby on Rails, Angular, Bootstrap, Puma, Postgres, PostGIS, Sidekiq, Redis, Elasticsearch, Webpack, Imgix, React, Elixir, Guardian, Python, SqlAlchemy, scikit-learn, Pandas, Flask, Docker, Kubernetes, Dask, BigQuery, Twilio, React Native, Blockscore, GitHub, Heroku, CircleCI, Slack, Help Scout, Dyn, Talkdesk, HelloSign, New Relic, Papertrail, Sentry, Mixpanel, Amplitude, Heap, and Looker." <sup>***9***</sup>  
+As per Stackshare their current technology stack consist of, Ruby on Rails, Angular, Bootstrap, Puma, Postgres, PostGIS, Sidekiq, Redis, Elasticsearch, Webpack, Imgix, React, Elixir, Guardian, Python, SqlAlchemy, scikit-learn, Pandas, Flask, Docker, Kubernetes, Dask, BigQuery, Twilio, React Native, Blockscore, GitHub, Heroku, CircleCI, Slack, Help Scout, Dyn, Talkdesk, HelloSign, New Relic, Papertrail, Sentry, Mixpanel, Amplitude, Heap, and Looker. <sup>***9***</sup>  
 
 CB Insights reports, "The company gains from whatever appreciation might occur, and protects itself from downside (depreciation in the home price) by taking a fee from the homeowner tied to its own estimate of the home and market risk." <sup>***6***</sup>  
 
@@ -63,74 +63,40 @@ CB Insights reports, "The company gains from whatever appreciation might occur, 
 
 ### **<p>What domain of the financial industry is the company in?</p>**  
 
+Opendoor's business conducts business within the Real Estate Technology domain. 
+
 ### **<p>What have been the major trends and innovations of this domain over the last 5-10 years?</p>**  
 
-Recent trends in the real estate technology domain have been the fall in supply, the increase in demand, Low mortgage rates,and technology adoption. <sup>***10***</sup>  
+Recent trends in the real estate technology domain have been the fall in supply, the increase in demand, Low mortgage rates, and new technology adoption. <sup>***10***</sup>  
 
 ### **<p>What are the other major companies in this domain?</p>**  
 
-The other iBuyers such as Knock, offerpad, Zillow Offers, RedfinNow, Orchard, and Offer Key, <sup>***10,11,12***</sup>  
+The other iBuyers such as Knock, offerpad, Zillow Offers, RedfinNow, Orchard, and Offer Key are the major companies in this domain. <sup>***10,11,12***</sup>  
 
 ## **<p>Results</p>**  
 
 ### **<p>What has been the business impact of this company so far?</p>**  
-The company has raised $320M in just 3 years. <sup>***6***</sup>    
-> Don't forget to update  
+The company has raised $1.5B since inception, became a top-level technology company in 3 years, and have committed $100M monthly to property acquisitions. <sup>***6***</sup>  
 
-### **<p>What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?</p>**  
-
-> Don't forget to update  
- 
 ### **<p>How is your company performing relative to competitors in the same domain?</p>**  
 
+Using google trends to gage relevancy and internet traffic in the market shows Opendoor leads significantly compared to several of  their direct competitors. <sup>***13***</sup> 
 ## **<p>Recommendations</p>**  
 
-If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-Credit repair to unqualified buyers, Furniture affiliate partnership, housing insurance, blockchain asset, homeowner partnership program
-> Don't forget to update  
+### **<p>If you were to advise the company, what products or services would you suggest they offer?</p>** 
+My recommendation would include offering credit improvement services to unqualified buyers, Furniture affiliate partnerships, housing insurance, collateralization using blockchain technology, and homeowner partnership programs similar to AirBNB.
 
 ### **<p>Why do you think that offering this product or service would benefit the company?</p>**  
 
-It broadens the base and diversifies their revenue streams  
-> Don't forget to update  
+Offering these new services would broaden their areas of expertise and in return diversify their revenue streams.
 
 ### **<p>What technologies would this additional product or service utilize?</p>**  
-
-> Don't forget to update  
+Blockchain Technology and Artificial intelligence would allow for many of the previously stated innovations.
 
 ### **<p>Why are these technologies appropriate for your solution?</p>**  
 
-> Don't forget to update  
-
-
-
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
+Using blockchain technology would assist in the cataloguing of equity an owner has in a property. Artificial Intelligence would allow for formulaic credit improvement models. As well as creating a collective bargaining agreement with furniture manufacturers and wholesalers.
+<br><br><br><br>
 ## <p>Works Cited</p>
 
 <sup>***1.***</sup> Businesswire. (2020). "Opendoor, a Leading Digital Platform for Residential Real Estate, to Become Publicly-traded following Completed Transaction with Social Capital Hedosophia II".
@@ -145,7 +111,7 @@ It broadens the base and diversifies their revenue streams
 <sup>***4.***</sup> Opendoor. (2021). "About".
 <br> https://www.opendoor.com/w/about
 
-<sup>***5.***</sup> Crunchbase. (2021). "Opendoor: Company Finanials"
+<sup>***5.***</sup> Crunchbase. (2021). "Opendoor: Company Financials"
 <br>  https://www.crunchbase.com/organization/opendoor-2/company_financials
 
 <sup>***6.***</sup> CB Insights. (2020). "How This Real Estate Tech Company Pioneered A New Home-Buying Model And Became A Unicorn in 3 Years".
@@ -169,3 +135,6 @@ It broadens the base and diversifies their revenue streams
 
 <sup>***12.***</sup> Rice, Mae.(2020). "REAL ESTATE TECHNOLOGY: TRENDS & OVERVIEW".
 <br> https://builtin.com/consumer-tech/real-estate-technology
+
+<sup>***13.***</sup> Google Trends. (2021). Comparing "Offerpad, Opendoor, RedfinNow, OfferKey".
+<br> https://trends.google.com/trends/explore?geo=US&q=offerpad,opendoor,RedfinNow,OfferKey
